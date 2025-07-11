@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://setupprinter.net/canon.html">
+
 How to Download Canon Selphy cp1300 Printer Driver?
 ------------------------------------------------------------------
 
